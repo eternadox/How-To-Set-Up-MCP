@@ -14,4 +14,5 @@
 - Open your IDE, and create a new project from existing sources, if you are on MavenMCP click Maven Project, and if you are on regular MCP click Eclipse Project.
 > For Maven Projects, select the project file as pom.xml. <br>
 > For Eclipse/Regular MCP Projects, click on the eclipse folder.
-
+## Step 4
+- I'm too lazy to finish this rn lol
