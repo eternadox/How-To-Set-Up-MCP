@@ -12,6 +12,6 @@
 - Once you have either one downloaded, extract it in your folder.
 ## Step 3
 - Open your IDE, and create a new project from existing sources, if you are on MavenMCP click Maven Project, and if you are on regular MCP click Eclipse Project.
-> For Maven Projects, select the project file as pom.xml
+> For Maven Projects, select the project file as pom.xml.\n
 > For Eclipse/Regular MCP Projects, click on the eclipse folder.
 
