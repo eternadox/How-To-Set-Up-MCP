@@ -15,4 +15,8 @@
 > For Maven Projects, select the project file as pom.xml. <br>
 > For Eclipse/Regular MCP Projects, click on the eclipse folder.
 ## Step 4
-- I'm too lazy to finish this rn lol
+- Click on Project Structure > Modules > Sources, and remove Content Roots.
+- Next, if you are using regular MCP, add a Content Root to src/minecraft, but if you use MavenMCP, add a content root to src/main/java.
+## Step 5
+- To run your program, add a new Run Configuration.
+- i'm too lazy to finish this rn
